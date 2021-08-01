@@ -15,15 +15,14 @@ Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
 ## [Taechawat]'s Cloud Journey
-
-[✍️ Introduce yourself]
 I'm working as a machine learning engineer on social media data. My main responsibilities are creating services to make the company's applications being more intelligent using machine learning techniques. I typically work with Natural Language Processing (NLP) and Computer Vision.
+<br/>
 
-[✍️ Tell us why you started this challenge]
 Creating a production-grade machine learning model is necessary to get familiar with cloud services. This makes me able to decide when and how to apply services to different use cases.
+<br/>
 
-[✍️ Tell us where you want to be at the end of the challenge]
 First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org/specializations/aws-fundamentals), getting familiar with the tools is worth spending time that can make me choose what to use in different situations appropriately.
+<br/>
 
 - [Twitter](https://twitter.com/TaechawatK)
 - [Linkedin](https://www.linkedin.com/in/taechawatk)
