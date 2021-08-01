@@ -1,4 +1,4 @@
-# Getting started to AWS Cloud Technical Essentials
+# Getting started with AWS Cloud
 
 ## Cloud Research
 
