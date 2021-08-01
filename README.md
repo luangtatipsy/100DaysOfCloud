@@ -10,9 +10,6 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
 ## Taechawat's Cloud Journey
 I'm working as a machine learning engineer on social media data. My main responsibilities are creating services to make the company's applications being more intelligent using machine learning techniques. I typically work with Natural Language Processing (NLP) and Computer Vision.
