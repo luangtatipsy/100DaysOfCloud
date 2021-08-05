@@ -29,7 +29,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 - [x] ☁️ 1 > [Getting started with AWS Cloud](Journey/001/Readme.md)
 - [x] ☁️ 2 > [Security in the AWS Cloud](Journey/002/Readme.md)
 - [x] ☁️ 3 > [AWS Identity and Access Management](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
+- [x] ☁️ 4 > [AWS Compute](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
