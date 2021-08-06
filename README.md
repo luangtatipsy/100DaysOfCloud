@@ -31,7 +31,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 - [x] ☁️ 3 > [AWS Identity and Access Management](Journey/003/Readme.md)
 - [x] ☁️ 4 > [AWS Compute](Journey/004/Readme.md)
 - [X] ☁️ 5 > [AWS Networking](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
+- [x] ☁️ 6 > [Storage on AWS](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
