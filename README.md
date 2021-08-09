@@ -34,7 +34,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 - [x] ☁️ 6 > [Storage on AWS](Journey/006/Readme.md)
 - [x] ☁️ 7 > [Databases on AWS](Journey/007/Readme.md)
 - [x] ☁️ 8 > [Monitoring on AWS](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
+- [x] ☁️ 9 > [Optimization](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
 ## Walking down the road
