@@ -1,52 +1,22 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
-
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+# Optimization
 
 ## Cloud Research
+- Today, I've learned about basic monitoring and its purposes. AWS CloudWatch provides us many different pre-set metrics that we can select them for monitoring something like CPU, and memory utilization on EC2 intances. AWS CloudWatch has an alarm feature which can notify us when a value on any metric exceed a threshold as well.
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+## __What’s a Load Balancer?__
+Load balancing refers to the process of distributing tasks across a set of resources. In the case of the corporate directory application, the resources are EC2 instances that host the application, and the tasks are the different requests being sent. It’s time to distribute the requests across all the servers hosting the application using a load balancer.
 
-## Try yourself
+### __Select Between ELB Types__
+<img src="elb-use-cases.png" width="1024px" />
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+## __Use Amazon EC2 Auto Scaling__
+The EC2 Auto Scaling service works to add or remove capacity to keep a steady and predictable performance at the lowest possible cost. By adjusting the capacity to exactly what your application uses, you only pay for what your application needs. And even with applications that have steady usage, EC2 Auto Scaling can help with fleet management. If there is an issue with an EC2 instance, EC2 Auto Scaling can automatically replace that instance. This means that EC2 Auto Scaling helps both to scale your infrastructure and ensure high availability. 
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+### __Configure EC2 Auto Scaling Components__
+There are three main components to EC2 Auto Scaling.
+- __Launch template or configuration__: What resource should be automatically scaled?
+- __EC2 Auto Scaling Group__: Where should the resources be deployed?
+- __Scaling policies__: When should the resources be added or removed?
 
 ## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+I'm not going to post my progression on social media.
