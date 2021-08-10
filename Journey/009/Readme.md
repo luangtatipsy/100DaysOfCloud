@@ -1,7 +1,7 @@
 # Optimization
 
 ## Cloud Research
-- Today, I've learned about basic monitoring and its purposes. AWS CloudWatch provides us many different pre-set metrics that we can select them for monitoring something like CPU, and memory utilization on EC2 intances. AWS CloudWatch has an alarm feature which can notify us when a value on any metric exceed a threshold as well.
+- Today, I've learned about how we can optimize the system to handle different load dynamically. Load balancer helps us for routing incomming traffics and distribute them to EC2 instances. By the way, there is another stuff to improve, EC2 auto scaler, it can scale up EC2 instances to keep a steady performance when there are so many incomming traffics. On the other hand, it scale down EC2 instances for less traffics as well.
 
 ## __What’s a Load Balancer?__
 Load balancing refers to the process of distributing tasks across a set of resources. In the case of the corporate directory application, the resources are EC2 instances that host the application, and the tasks are the different requests being sent. It’s time to distribute the requests across all the servers hosting the application using a load balancer.
