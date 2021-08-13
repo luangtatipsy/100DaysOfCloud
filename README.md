@@ -41,7 +41,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 
 - [x] ☁️ 11 > [Addressing Security Risks](Journey/011/Readme.md)
 - [x] ☁️ 12 > [Auditing & Monitoring](Journey/012/Readme.md)
-- [ ] ☁️ 13 > [](Journey/013/Readme.md)
+- [x] ☁️ 13 > [Encryption](Journey/013/Readme.md)
 - [ ] ☁️ 14 > [](Journey/014/Readme.md)
 - [ ] ☁️ 15 > [](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [](Journey/016/Readme.md)
