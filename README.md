@@ -43,7 +43,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 - [x] ☁️ 12 > [Auditing & Monitoring](Journey/012/Readme.md)
 - [x] ☁️ 13 > [Encryption](Journey/013/Readme.md)
 - [x] ☁️ 14 > [Protecting Application](Journey/014/Readme.md)
-- [ ] ☁️ 15 > [](Journey/015/Readme.md)
+- [x] ☁️ 15 > [Cloud Migration](Journey/015/Readme.md)
 - [ ] ☁️ 16 > [](Journey/016/Readme.md)
 - [ ] ☁️ 17 > [](Journey/017/Readme.md)
 - [ ] ☁️ 18 > [](Journey/018/Readme.md)
