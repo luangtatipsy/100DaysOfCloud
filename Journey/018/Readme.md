@@ -1,4 +1,4 @@
-# VM Import and VM on AWS
+# AWS Migration Hub
 
 ## Cloud Research
 - Today, I've learned about AWS Migration Hub.
