@@ -47,7 +47,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 - [x] ☁️ 16 > [Cloud Adoption Framework](Journey/016/Readme.md)
 - [x] ☁️ 17 > [VM Import and VM on AWS](Journey/017/Readme.md)
 - [x] ☁️ 18 > [AWS Migration Hub](Journey/018/Readme.md)
-- [ ] ☁️ 19 > [](Journey/019/Readme.md)
+- [x] ☁️ 19 > [Preparation of Planning and Analysis](Journey/019/Readme.md)
 - [ ] ☁️ 20 > [](Journey/020/Readme.md)
 
 ## Crossing the bridge
