@@ -1,4 +1,4 @@
-# Preparation of Planning and Analysis
+# AWS Database Migration Service
 
 ## Cloud Research
 - Today, I've learned about how to migrate data in a database using AWS Database Migration Service (AWS DMS) which support migrating to different database providers.
