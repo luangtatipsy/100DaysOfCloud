@@ -53,7 +53,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 ## Crossing the bridge
 
 - [x] ☁️ 21 > [AWS Schema Conversion Tool](Journey/021/Readme.md)
-- [ ] ☁️ 22 > [](Journey/022/Readme.md)
+- [x] ☁️ 22 > [Additional Migration Resources](Journey/022/Readme.md)
 - [ ] ☁️ 23 > [](Journey/023/Readme.md)
 - [ ] ☁️ 24 > [](Journey/024/Readme.md)
 - [ ] ☁️ 25 > [](Journey/025/Readme.md)
