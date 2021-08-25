@@ -56,7 +56,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 - [x] ☁️ 22 > [Additional Migration Resources](Journey/022/Readme.md)
 - [x] ☁️ 23 > [Amazon Lex](Journey/023/Readme.md)
 - [x] ☁️ 24 > [Amazon Lex in Practice](Journey/024/Readme.md)
-- [ ] ☁️ 25 > [](Journey/025/Readme.md)
+- [x] ☁️ 25 > [Amazon Lex in Practice #2](Journey/025/Readme.md)
 - [ ] ☁️ 26 > [](Journey/026/Readme.md)
 - [ ] ☁️ 27 > [](Journey/027/Readme.md)
 - [ ] ☁️ 28 > [](Journey/028/Readme.md)
