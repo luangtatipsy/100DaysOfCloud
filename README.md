@@ -59,7 +59,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 - [x] ☁️ 25 > [Amazon Lex in Practice #2](Journey/025/Readme.md)
 - [x] ☁️ 26 > [Amazon CloudFront](Journey/026/Readme.md)
 - [x] ☁️ 27 > [Amazon API Gateway](Journey/027/Readme.md)
-- [ ] ☁️ 28 > [](Journey/028/Readme.md)
+- [x] ☁️ 28 > [Lambda with Amazon API Gateway](Journey/028/Readme.md)
 - [ ] ☁️ 29 > [](Journey/029/Readme.md)
 - [ ] ☁️ 30 > [](Journey/030/Readme.md)
 
