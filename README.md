@@ -67,7 +67,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 
 - [x] ☁️ 31 > [Docker Life Cycle](Journey/031/Readme.md)
 - [x] ☁️ 32 > [Executing Commands in Running Containers](Journey/032/Readme.md)
-- [ ] ☁️ 33 > [](Journey/033/Readme.md)
+- [x] ☁️ 33 > [Building Your Own Docker Image](Journey/033/Readme.md)
 - [ ] ☁️ 34 > [](Journey/034/Readme.md)
 - [ ] ☁️ 35 > [](Journey/035/Readme.md)
 - [ ] ☁️ 36 > [](Journey/036/Readme.md)
