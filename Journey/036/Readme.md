@@ -1,4 +1,4 @@
-# Making Real Projects with Docker
+# Docker Compose with Multiple Local Containers
 
 ## Cloud Research
 - Today, I've learned about how to build multiple containers, and serve them with `docker compose`. For this exercise, I create a simple website that count a number of visitor, and store it into Redis database.
