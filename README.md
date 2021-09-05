@@ -70,7 +70,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 - [x] ☁️ 33 > [Building Your Own Docker Image](Journey/033/Readme.md)
 - [x] ☁️ 34 > [Manual Image Generation with Docker Commit](Journey/034/Readme.md)
 - [x] ☁️ 35 > [Making Real Projects with Docker](Journey/035/Readme.md)
-- [ ] ☁️ 36 > [](Journey/036/Readme.md)
+- [x] ☁️ 36 > [Docker Compose with Multiple Local Containers](Journey/036/Readme.md)
 - [ ] ☁️ 37 > [](Journey/037/Readme.md)
 - [ ] ☁️ 38 > [](Journey/038/Readme.md)
 - [ ] ☁️ 39 > [](Journey/039/Readme.md)
