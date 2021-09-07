@@ -1,4 +1,4 @@
-# Creating a Production-Grade Workflow #1
+# Creating a Production-Grade Workflow #2
 
 ## Cloud Research
 - Today, I've setuped a part of an exercise creating a production-grade workflow. In order to make docker automatically refresh source code when we edited any code on our local machine, we need to map volumes on our local machine to the container project directory.
