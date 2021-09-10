@@ -79,7 +79,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 
 ## Trekking the dunes
 
-- [ ] ☁️ 41 > [](Journey/041/Readme.md)
+- [x] ☁️ 41 > [AWS Elastic Beanstalk](Journey/041/Readme.md)
 - [ ] ☁️ 42 > [](Journey/042/Readme.md)
 - [ ] ☁️ 43 > [](Journey/043/Readme.md)
 - [ ] ☁️ 44 > [](Journey/044/Readme.md)
