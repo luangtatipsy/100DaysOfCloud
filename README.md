@@ -83,7 +83,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 - [X] ☁️ 42 > [CD with Travis CI and Elastic Beanstalk](Journey/042/Readme.md)
 - [x] ☁️ 43 > [Building a Multi-Container Application #1](Journey/043/Readme.md)
 - [x] ☁️ 44 > [Building a Multi-Container Application #2](Journey/044/Readme.md)
-- [ ] ☁️ 45 > [](Journey/045/Readme.md)
+- [x] ☁️ 45 > [Building a Multi-Container Application #3](Journey/045/Readme.md)
 - [ ] ☁️ 46 > [](Journey/046/Readme.md)
 - [ ] ☁️ 47 > [](Journey/047/Readme.md)
 - [ ] ☁️ 48 > [](Journey/048/Readme.md)
