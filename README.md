@@ -88,7 +88,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 - [x] ☁️ 47 > [Building a Multi-Container Application #5](Journey/047/Readme.md)
 - [x] ☁️ 48 > [Building a Multi-Container Application #6](Journey/048/Readme.md)
 - [x] ☁️ 49 > [Building a Multi-Container Application #7](Journey/049/Readme.md)
-- [ ] ☁️ 50 > [](Journey/050/Readme.md)
+- [x] ☁️ 50 > [Amazon Elastic Beanstalk with Dockerrun.aws.json](Journey/050/Readme.md)
 
 ## Winding through the canyons
 
