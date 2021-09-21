@@ -93,7 +93,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 ## Winding through the canyons
 
 - [x] ☁️ 51 > [Build your own or Use Provider Services](Journey/051/Readme.md)
-- [ ] ☁️ 52 > [](Journey/052/Readme.md)
+- [x] ☁️ 52 > [RDS and Redis Creation](Journey/052/Readme.md)
 - [ ] ☁️ 53 > [](Journey/053/Readme.md)
 - [ ] ☁️ 54 > [](Journey/054/Readme.md)
 - [ ] ☁️ 55 > [](Journey/055/Readme.md)
