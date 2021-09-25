@@ -97,7 +97,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 - [x] ☁️ 53 > [Setting Environment Variables](Journey/053/Readme.md)
 - [x] ☁️ 54 > [Kubernetes](Journey/054/Readme.md)
 - [x] ☁️ 55 > [Minikube](Journey/055/Readme.md)
-- [ ] ☁️ 56 > [](Journey/056/Readme.md)
+- [x] ☁️ 56 > [Start Minikube Cluster](Journey/056/Readme.md)
 - [ ] ☁️ 57 > [](Journey/057/Readme.md)
 - [ ] ☁️ 58 > [](Journey/058/Readme.md)
 - [ ] ☁️ 59 > [](Journey/059/Readme.md)
