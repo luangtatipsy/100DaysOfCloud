@@ -98,7 +98,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 - [x] ☁️ 54 > [Kubernetes](Journey/054/Readme.md)
 - [x] ☁️ 55 > [Minikube](Journey/055/Readme.md)
 - [x] ☁️ 56 > [Start Minikube Cluster](Journey/056/Readme.md)
-- [ ] ☁️ 57 > [](Journey/057/Readme.md)
+- [x] ☁️ 57 > [Imperative vs Declarative Deployments](Journey/057/Readme.md)
 - [ ] ☁️ 58 > [](Journey/058/Readme.md)
 - [ ] ☁️ 59 > [](Journey/059/Readme.md)
 - [ ] ☁️ 60 > [](Journey/060/Readme.md)
