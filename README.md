@@ -101,7 +101,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 - [x] ☁️ 57 > [Imperative vs Declarative Deployments](Journey/057/Readme.md)
 - [x] ☁️ 58 > [Pod Limitation in Config Updates](Journey/058/Readme.md)
 - [x] ☁️ 59 > [Deployment Configuration](Journey/059/Readme.md)
-- [ ] ☁️ 60 > [](Journey/060/Readme.md)
+- [x] ☁️ 60 > [Imperatively Updating a Deployment's Image](Journey/060/Readme.md)
 
 ## Stumbling through the caves
 
