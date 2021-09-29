@@ -1,4 +1,4 @@
-# Deployment Configuration
+# Imperatively Updating a Deployment's Image
 
 ## Cloud Research
 Today, I've learned about different ways to update Kubernetes Deployment's image. 
