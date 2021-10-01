@@ -106,7 +106,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 ## Stumbling through the caves
 
 - [x] ☁️ 61 > [Service Type: Cluster IP](Journey/061/Readme.md)
-- [ ] ☁️ 62 > [](Journey/062/Readme.md)
+- [x] ☁️ 62 > [Service Type: Cluster IP in Practice](Journey/062/Readme.md)
 - [ ] ☁️ 63 > [](Journey/063/Readme.md)
 - [ ] ☁️ 64 > [](Journey/064/Readme.md)
 - [ ] ☁️ 65 > [](Journey/065/Readme.md)
