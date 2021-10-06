@@ -111,7 +111,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 - [x] ☁️ 64 > [Cluster IP for the Redis](Journey/064/Readme.md)
 - [x] ☁️ 65 > [Cluster IP for the Postgres](Journey/065/Readme.md)
 - [x] ☁️ 66 > [Volume in Kubernetes](Journey/066/Readme.md)
-- [ ] ☁️ 67 > [](Journey/067/Readme.md)
+- [x] ☁️ 67 > [Persistant Volume](Journey/067/Readme.md)
 - [ ] ☁️ 68 > [](Journey/068/Readme.md)
 - [ ] ☁️ 69 > [](Journey/069/Readme.md)
 - [ ] ☁️ 70 > [](Journey/070/Readme.md)
