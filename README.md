@@ -113,7 +113,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 - [x] ☁️ 66 > [Volume in Kubernetes](Journey/066/Readme.md)
 - [x] ☁️ 67 > [Persistant Volume](Journey/067/Readme.md)
 - [x] ☁️ 68 > [Persistant Volume Claim](Journey/068/Readme.md)
-- [ ] ☁️ 69 > [](Journey/069/Readme.md)
+- [x] ☁️ 69 > [PVC Configuration](Journey/069/Readme.md)
 - [ ] ☁️ 70 > [](Journey/070/Readme.md)
 
 ## Resting at the Lagoon
