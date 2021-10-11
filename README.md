@@ -119,7 +119,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 ## Resting at the Lagoon
 
 - [x] ☁️ 71 > [Passing Secrets as Environment Variables](Journey/071/Readme.md)
-- [ ] ☁️ 72 > [](Journey/072/Readme.md)
+- [x] ☁️ 72 > [Environment Variables Configuration](Journey/072/Readme.md)
 - [ ] ☁️ 73 > [](Journey/073/Readme.md)
 - [ ] ☁️ 74 > [](Journey/074/Readme.md)
 - [ ] ☁️ 75 > [](Journey/075/Readme.md)
