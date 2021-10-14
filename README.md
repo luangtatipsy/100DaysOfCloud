@@ -123,7 +123,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 - [x] ☁️ 73 > [Kubernetes Ingress](Journey/073/Readme.md)
 - [x] ☁️ 74 > [Testing Ingress Locally](Journey/074/Readme.md)
 - [x] ☁️ 75 > [Kubernetes Production Deployment](Journey/075/Readme.md)
-- [ ] ☁️ 76 > [](Journey/076/Readme.md)
+- [x] ☁️ 76 > [Setting Up Travis CI](Journey/076/Readme.md)
 - [ ] ☁️ 77 > [](Journey/077/Readme.md)
 - [ ] ☁️ 78 > [](Journey/078/Readme.md)
 - [ ] ☁️ 79 > [](Journey/079/Readme.md)
