@@ -122,7 +122,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 - [x] ☁️ 72 > [Environment Variables Configuration](Journey/072/Readme.md)
 - [x] ☁️ 73 > [Kubernetes Ingress](Journey/073/Readme.md)
 - [x] ☁️ 74 > [Testing Ingress Locally](Journey/074/Readme.md)
-- [ ] ☁️ 75 > [](Journey/075/Readme.md)
+- [x] ☁️ 75 > [Kubernetes Production Deployment](Journey/075/Readme.md)
 - [ ] ☁️ 76 > [](Journey/076/Readme.md)
 - [ ] ☁️ 77 > [](Journey/077/Readme.md)
 - [ ] ☁️ 78 > [](Journey/078/Readme.md)
