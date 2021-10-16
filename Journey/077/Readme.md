@@ -1,52 +1,25 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
-
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
+# Creating Deployment Script
 ## Cloud Research
+Today, I've created a script for deploying the application to GCP. The script commands are shown below.
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+```sh
+docker build -t cygnetops/multi-client-k8s:latest -t cygnetops/multi-client-k8s:$SHA -f ./client/Dockerfile ./client
+docker build -t cygnetops/multi-server-k8s-pgfix:latest -t cygnetops/multi-server-k8s-pgfix:$SHA -f ./server/Dockerfile ./server
+docker build -t cygnetops/multi-worker-k8s:latest -t cygnetops/multi-worker-k8s:$SHA -f ./worker/Dockerfile ./worker
 
-## Try yourself
+docker push cygnetops/multi-client-k8s:latest
+docker push cygnetops/multi-server-k8s-pgfix:latest
+docker push cygnetops/multi-worker-k8s:latest
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+docker push cygnetops/multi-client-k8s:$SHA
+docker push cygnetops/multi-server-k8s-pgfix:$SHA
+docker push cygnetops/multi-worker-k8s:$SHA
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+kubectl apply -f k8s
+kubectl set image deployments/server-deployment server=cygnetops/multi-server-k8s-pgfix:$SHA
+kubectl set image deployments/client-deployment client=cygnetops/multi-client-k8s:$SHA
+kubectl set image deployments/worker-deployment worker=cygnetops/multi-worker-k8s:$SHA
+```
 
 ## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+I'm not going to post my progression on social media.
