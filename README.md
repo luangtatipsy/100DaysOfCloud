@@ -126,7 +126,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 - [x] ☁️ 76 > [Setting Up Travis CI](Journey/076/Readme.md)
 - [x] ☁️ 77 > [Creating Deployment Script](Journey/077/Readme.md)
 - [x] ☁️ 78 > [Combine everything together](Journey/078/Readme.md)
-- [ ] ☁️ 79 > [](Journey/079/Readme.md)
+- [x] ☁️ 79 > [A Workflow for Changing in Production](Journey/079/Readme.md)
 - [ ] ☁️ 80 > [](Journey/080/Readme.md)
 
 ## Up into the mountains
