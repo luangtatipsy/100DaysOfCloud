@@ -127,7 +127,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 - [x] ☁️ 77 > [Creating Deployment Script](Journey/077/Readme.md)
 - [x] ☁️ 78 > [Combine everything together](Journey/078/Readme.md)
 - [x] ☁️ 79 > [A Workflow for Changing in Production](Journey/079/Readme.md)
-- [ ] ☁️ 80 > [](Journey/080/Readme.md)
+- [x] ☁️ 80 > [Local Kubernetes Development](Journey/080/Readme.md)
 
 ## Up into the mountains
 
