@@ -132,7 +132,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 ## Up into the mountains
 
 - [x] ☁️ 81 > [AWS Serverless Application Model](Journey/081/Readme.md)
-- [ ] ☁️ 82 > [](Journey/082/Readme.md)
+- [x] ☁️ 82 > [Installing the AWS SAM CLI](Journey/082/Readme.md)
 - [ ] ☁️ 83 > [](Journey/083/Readme.md)
 - [ ] ☁️ 84 > [](Journey/084/Readme.md)
 - [ ] ☁️ 85 > [](Journey/085/Readme.md)
