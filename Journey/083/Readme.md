@@ -1,52 +1,44 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
-
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
+# AWS SAM Template Anatomy
 
 ## Cloud Research
+Today, I've learned about AWS SAM template anatomy. AWS SAM template file closely follows the format of an AWS CloudFormation template file, which is described in Template anatomy in the AWS CloudFormation User Guide. The primary differences between AWS SAM template files and AWS CloudFormation template files are the following:
+  - __Transform declaration__: The declaration Transform: AWS::Serverless-2016-10-31 is required for AWS SAM template files. This declaration identifies an AWS CloudFormation template file as an AWS SAM template file. For more information about transforms, see Transform in the AWS CloudFormation User Guide.
+  - __Globals section__: The Globals section is unique to AWS SAM. It defines properties that are common to all your serverless functions and APIs. All the AWS::Serverless::Function, AWS::Serverless::Api, and AWS::Serverless::SimpleTable resources inherit the properties that are defined in the Globals section. For more information about this section, see Globals section of the AWS SAM template.
+  - __Resources section__: In AWS SAM templates the Resources section can contain a combination of AWS CloudFormation resources and AWS SAM resources. For more information about AWS CloudFormation resources, see AWS resource and property types reference in the AWS CloudFormation User Guide. For more information about AWS SAM resources, see AWS SAM resource and property reference.
+  - __Parameters section__: Objects that are declared in the Parameters section cause the sam deploy --guided command to present additional prompts to the user. For examples of declared objects and the corresponding prompts, see sam deploy in the AWS SAM CLI command reference.
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+All other sections of an AWS SAM template file correspond to the AWS CloudFormation template file section of the same name. The following example shows a YAML-formatted template fragment:
 
-## Try yourself
+```yaml
+Transform: AWS::Serverless-2016-10-31
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+Globals:
+  set of globals
 
-### Step 1 — Summary of Step
+Description:
+  String
 
-![Screenshot](https://via.placeholder.com/500x300)
+Metadata:
+  template metadata
 
-### Step 1 — Summary of Step
+Parameters:
+  set of parameters
 
-![Screenshot](https://via.placeholder.com/500x300)
+Mappings:
+  set of mappings
 
-### Step 3 — Summary of Step
+Conditions:
+  set of conditions
 
-![Screenshot](https://via.placeholder.com/500x300)
+Resources:
+  set of resources
 
-## ☁️ Cloud Outcome
+Outputs:
+  set of outputs
+```
 
-✍️ (Result) Describe your personal outcome, and lessons learned.
+For more details of each template section are listed at a [documentation](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/sam-specification-template-anatomy.html)
 
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
 
 ## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+I'm not going to post my progression on social media.
