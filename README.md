@@ -135,7 +135,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 - [x] ☁️ 82 > [Installing the AWS SAM CLI](Journey/082/Readme.md)
 - [x] ☁️ 83 > [AWS SAM Template Anatomy](Journey/083/Readme.md)
 - [x] ☁️ 84 > [Validating AWS SAM template files](Journey/084/Readme.md)
-- [ ] ☁️ 85 > [](Journey/085/Readme.md)
+- [x] ☁️ 85 > [Working with layers](Journey/085/Readme.md)
 - [ ] ☁️ 86 > [](Journey/086/Readme.md)
 - [ ] ☁️ 87 > [](Journey/087/Readme.md)
 - [ ] ☁️ 88 > [](Journey/088/Readme.md)
