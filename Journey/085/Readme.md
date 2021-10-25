@@ -1,4 +1,4 @@
-# Working with layers
+# Working with Layers
 
 ## Cloud Research
 Today, I've learned about how to include with custom layers to your serverless application.
