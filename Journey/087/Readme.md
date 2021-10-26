@@ -1,52 +1,17 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
-
-# New post title here
-
-## Introduction
-
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
-
-## Prerequisite
-
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
-
-## Use Case
-
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
+# Building a ZIP File Archive
 ## Cloud Research
+Today, I've learned about how to build a ZIP file archive. To build your serverless application as a .zip file archive, declare PackageType: Zip for your serverless function. AWS SAM builds your application for the architecture that you specify. If you don't specify an architecture, AWS SAM uses x86_64 by default. If your Lambda function depends on packages that have natively compiled programs, use the `--use-container` flag. This flag locally compiles your functions in a Docker container that behaves like a Lambda environment, so they're in the right format when you deploy them to the AWS Cloud.
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
+When you use the `--use-container` option, by default AWS SAM pulls the container image from Amazon ECR Public. If you would like to pull a container image from another repository, for example DockerHub, you can use the `--build-image` option and provide the URI of an alternate container image. Following are two example commands for building applications using container images from the DockerHub repository
 
-## Try yourself
+```yaml
+# Build a Node.js 12 application using a container image pulled from DockerHub
+sam build --use-container --build-image amazon/aws-sam-cli-build-image-nodejs12.x
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
+# Build a function resource using the Python 3.8 container image pulled from DockerHub
+sam build --use-container --build-image Function1=amazon/aws-sam-cli-build-image-python3.8 
+```
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
 
 ## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+I'm not going to post my progression on social media.
