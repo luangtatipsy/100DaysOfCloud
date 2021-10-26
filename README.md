@@ -137,7 +137,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 - [x] ☁️ 84 > [Validating AWS SAM template files](Journey/084/Readme.md)
 - [x] ☁️ 85 > [Working with Layers](Journey/085/Readme.md)
 - [x] ☁️ 86 > [Building Applications](Journey/086/Readme.md)
-- [ ] ☁️ 87 > [](Journey/087/Readme.md)
+- [x] ☁️ 87 > [Building a ZIP File Archive](Journey/087/Readme.md)
 - [ ] ☁️ 88 > [](Journey/088/Readme.md)
 - [ ] ☁️ 89 > [](Journey/089/Readme.md)
 - [ ] ☁️ 90 > [](Journey/090/Readme.md)
