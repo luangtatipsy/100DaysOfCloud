@@ -140,7 +140,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 - [x] ☁️ 87 > [Building a ZIP File Archive](Journey/087/Readme.md)
 - [x] ☁️ 88 > [Building a Container Image](Journey/088/Readme.md)
 - [x] ☁️ 89 > [Testing and Debugging Serverless Applications](Journey/089/Readme.md)
-- [ ] ☁️ 90 > [](Journey/090/Readme.md)
+- [x] ☁️ 90 > [Invoking Functions Locally](Journey/090/Readme.md)
 
 ## Into the sky to touch the cloud!
 
