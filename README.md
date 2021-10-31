@@ -145,7 +145,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 ## Into the sky to touch the cloud!
 
 - [x] ☁️ 91 > [Running API Gateway Locally](Journey/091/Readme.md)
-- [ ] ☁️ 92 > [](Journey/092/Readme.md)
+- [x] ☁️ 92 > [Integrating with Automated Tests](Journey/092/Readme.md)
 - [ ] ☁️ 93 > [](Journey/093/Readme.md)
 - [ ] ☁️ 94 > [](Journey/094/Readme.md)
 - [ ] ☁️ 95 > [](Journey/095/Readme.md)
