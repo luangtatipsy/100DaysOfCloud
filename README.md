@@ -146,7 +146,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 
 - [x] ☁️ 91 > [Running API Gateway Locally](Journey/091/Readme.md)
 - [x] ☁️ 92 > [Integrating with Automated Tests](Journey/092/Readme.md)
-- [ ] ☁️ 93 > [](Journey/093/Readme.md)
+- [x] ☁️ 93 > [Generating Sample Event Payloads](Journey/093/Readme.md)
 - [ ] ☁️ 94 > [](Journey/094/Readme.md)
 - [ ] ☁️ 95 > [](Journey/095/Readme.md)
 - [ ] ☁️ 96 > [](Journey/096/Readme.md)
