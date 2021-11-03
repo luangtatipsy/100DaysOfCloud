@@ -148,7 +148,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 - [x] ☁️ 92 > [Integrating with Automated Tests](Journey/092/Readme.md)
 - [x] ☁️ 93 > [Generating Sample Event Payloads](Journey/093/Readme.md)
 - [x] ☁️ 94 > [Deploying using GitHub Actions](Journey/094/Readme.md)
-- [ ] ☁️ 95 > [](Journey/095/Readme.md)
+- [x] ☁️ 95 > [Monitoring Serverless Applications](Journey/095/Readme.md)
 - [ ] ☁️ 96 > [](Journey/096/Readme.md)
 - [ ] ☁️ 97 > [](Journey/097/Readme.md)
 - [ ] ☁️ 98 > [](Journey/098/Readme.md)
