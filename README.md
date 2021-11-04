@@ -149,7 +149,7 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 - [x] ☁️ 93 > [Generating Sample Event Payloads](Journey/093/Readme.md)
 - [x] ☁️ 94 > [Deploying using GitHub Actions](Journey/094/Readme.md)
 - [x] ☁️ 95 > [Monitoring Serverless Applications](Journey/095/Readme.md)
-- [ ] ☁️ 96 > [](Journey/096/Readme.md)
+- [x] ☁️ 96 > [Publishing Serverless Applications using the AWS SAM CLI](Journey/096/Readme.md)
 - [ ] ☁️ 97 > [](Journey/097/Readme.md)
 - [ ] ☁️ 98 > [](Journey/098/Readme.md)
 - [ ] ☁️ 99 > [](Journey/099/Readme.md)
