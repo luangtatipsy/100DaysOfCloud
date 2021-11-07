@@ -152,5 +152,5 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 - [x] ☁️ 96 > [Publishing Serverless Applications using the AWS SAM CLI](Journey/096/Readme.md)
 - [x] ☁️ 97 > [AWS SAM Accelerate](Journey/097/Readme.md)
 - [x] ☁️ 98 > [What is AWS CodeBuild?](Journey/098/Readme.md)
-- [ ] ☁️ 99 > [](Journey/099/Readme.md)
+- [x] ☁️ 99 > [AWS CodeBuild Concepts](Journey/099/Readme.md)
 - [ ] ☁️ 100 > [](Journey/100/Readme.md)
