@@ -153,4 +153,4 @@ First of all, I'd like to start with [AWS Fundamentals](https://www.coursera.org
 - [x] ☁️ 97 > [AWS SAM Accelerate](Journey/097/Readme.md)
 - [x] ☁️ 98 > [What is AWS CodeBuild?](Journey/098/Readme.md)
 - [x] ☁️ 99 > [AWS CodeBuild Concepts](Journey/099/Readme.md)
-- [ ] ☁️ 100 > [](Journey/100/Readme.md)
+- [x] ☁️ 100 > [Getting Started with AWS CodeBuild using the Console](Journey/100/Readme.md)
